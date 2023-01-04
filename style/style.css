@@ -164,6 +164,7 @@ form input {
     height: 56px;
     border-radius: 10px;
     border: none;
+    outline: none;
 }
 .first, .second, .wrapper_code_input {
     display: flex;
@@ -542,6 +543,7 @@ h3 {
     border-radius: 10px;
     border: none;
     margin-bottom: 14px;
+    outline: none;
 }
 .form_FAQ .input-big {
     height: 70px;
